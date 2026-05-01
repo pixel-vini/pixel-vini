@@ -1,6 +1,12 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vini
+#<h1 align="center">Hi 👋, I'm Vini</h1>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Creative+Coder;Open+Source+Learner&center=true&width=500&height=50">
+</p>
+
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" />
+</p>
 
 ✨ Student Developer
 💻 Learning Web Development
@@ -10,13 +16,11 @@
 
 ---
 
-## 🌱 Currently Learning
-
-* HTML
-* CSS
-* JavaScript
-* Git & GitHub
-
+### 🚀 Currently Learning
+- 🌐 HTML  
+- 🎨 CSS  
+- ⚡ JavaScript  
+- 🔗 Git & GitHub
 ---
 
 ## ⚡ Goals
@@ -30,9 +34,28 @@
 
 ## 🛠 Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge\&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+### 🧰 Tech Stack
+
+#### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+
+#### ⚙️ Backend
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+
+#### 🎨 UI/UX & Design
+![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+![Canva](https://img.shields.io/badge/Canva-blue?style=for-the-badge&logo=canva)
+
+#### 🛠️ Tools
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
 
 ---
 
