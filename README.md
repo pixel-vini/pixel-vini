@@ -1,16 +1,53 @@
-## Hi there 👋
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Vini
 
-<!--
-**pixel-vini/pixel-vini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+✨ Student Developer
+💻 Learning Web Development
+🌸 Building creative things with code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🌱 Currently Learning
+
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+---
+
+## ⚡ Goals
+
+* Build aesthetic projects
+* Improve coding skills
+* Create a beautiful portfolio
+* Contribute to open source
+
+---
+
+## 🛠 Tech Stack
+
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge\&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge\&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pixel-vini\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pixel-vini\&theme=tokyonight)
+
+---
+
+## ✨ Quote
+
+> “Building one step at a time.”
